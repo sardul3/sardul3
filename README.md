@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sardul3&label=Profile%20views&color=0e75b6&style=flat" alt="sardul3" /> </p>
 
- -->
 - 🌱 I’m currently learning **React**
 
 - 🤝 I’m working on **java and spring boot** projects
@@ -26,7 +25,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sardul3&show_icons=true&locale=en&layout=compact" alt="sardul3" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sardul3&show_icons=true&locale=en&layout=compact" alt="sardul3" /></p> -->
 
 
 # 💻 Tech Stack

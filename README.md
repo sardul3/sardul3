@@ -3,15 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sardul3&label=Profile%20views&color=0e75b6&style=flat" alt="sardul3" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **Reactive Programming**
 
 - 🤝 I’m working on **java and spring boot** projects
 
-- 📝 I regularly write articles on [medium.com](https://www.medium.com)
+- 📝 I regularly write articles on [medium.com](https://medium.com/@sagarpoudel)
 
 - 📫 How to reach me **poudelsagar530@gmail.com**
 
 ### Blogs posts
+- [Get Started with React] (https://medium.com/faun/getting-started-with-react-f50dca36d5c8)
 - [Java and Unit Testing] (https://faun.pub/unit-testing-with-java-and-spring-boot-62c8eca327d0)
 - [Eureka Server and API gateway] (https://faun.pub/eureka-server-and-api-gateway-2c528f00289f)
 - [AZ 900 Study Guide] (https://faun.pub/azure-fundamentals-az-900-study-guide-a17c6262a5ec)
